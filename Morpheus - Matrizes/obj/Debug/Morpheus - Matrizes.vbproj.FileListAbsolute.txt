@@ -1,0 +1,24 @@
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\bin\Debug\Morpheus - Matrizes.exe
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\bin\Debug\Morpheus - Matrizes.pdb
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\bin\Debug\Morpheus - Matrizes.xml
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.Form1.resources
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.Resources.resources
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.vbproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.exe
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.xml
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.pdb
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.OrdemDialogo.resources
+C:\Users\lucas\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.AboutBox1.resources
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.exe
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.xml
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.pdb
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\bin\Debug\Morpheus - Matrizes.exe
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\bin\Debug\Morpheus - Matrizes.pdb
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\bin\Debug\Morpheus - Matrizes.xml
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.AboutBox1.resources
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.Form1.resources
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.Resources.resources
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus.OrdemDialogo.resources
+E:\Documents\Visual Basic\Morpheus - Matrizes\Morpheus - Matrizes\obj\Debug\Morpheus - Matrizes.vbproj.GenerateResource.Cache
